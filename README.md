@@ -30,11 +30,6 @@ AutoScaler is a zero-touch, lightweight, background automation tool. It actively
 ## ⚡ Running on Startup (The Task Scheduler Method)
 To make AutoScaler truly "zero-touch," it needs to run automatically when you turn on your computer. 
 
-While you could put it in the standard Windows `shell:startup` folder, Windows intentionally delays apps in that folder. To get the script running the exact millisecond you log in, we use the Windows Task Scheduler.
-
-## ⚡ Running on Startup (The Task Scheduler Method)
-To make AutoScaler truly "zero-touch," it needs to run automatically when you turn on your computer. 
-
 While you could put it in the standard Windows `shell:startup` folder, Windows intentionally delays apps in that folder. Furthermore, the default "Fast Startup" feature on modern laptops often skips standard startup folders entirely. To bypass this and get the script running instantly, we use the Windows Task Scheduler with two specific triggers.
 
 1. Open **Task Scheduler** in Windows and click **Create Task...** (Do not use "Basic Task").
