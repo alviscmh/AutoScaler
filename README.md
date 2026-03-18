@@ -8,14 +8,14 @@ AutoScaler is a zero-touch, lightweight, background automation tool. It actively
 
 **Set it to launch on startup, and it becomes a seamless, invisible fix for one of Windows' most frustrating design flaws.**
 
+<img width="1856" height="2304" alt="Gemini_Generated_Image_1oxkyd1oxkyd1oxk" src="https://github.com/user-attachments/assets/67bce869-6727-4841-a445-722608f69544" />
+
 ## ✨ Features
 * **Zero-Touch Automation:** Automatically changes scaling when plugging/unplugging an external monitor.
 * **Pre-emptive Sleep/Shutdown Reset:** Intercepts Windows power states to reset your laptop to its "travel size" *before* it goes to sleep or shuts down. This bypasses the infamous Windows bug where the lock screen remains oversized upon waking up unplugged.
 * **Phantom Monitor Protection:** Actively measures screen resolution to detect "Second Screen Only" modes, preventing the script from accidentally resizing the wrong display.
 * **Hardware Debouncing:** Uses optimized timers to wait for the graphics card to finish its hardware "handshake" before executing, preventing CPU spam.
 * **Crash Armor:** Fully wrapped in `try...catch` blocks to survive chaotic OS display transitions without silently crashing in the background.
-
-<img width="1856" height="2304" alt="Gemini_Generated_Image_1oxkyd1oxkyd1oxk" src="https://github.com/user-attachments/assets/67bce869-6727-4841-a445-722608f69544" />
 
 ## 🛠️ Prerequisites
 1. **AutoHotkey v2:** You must have [AutoHotkey v2](https://www.autohotkey.com/) installed. (This script will not work on v1).
