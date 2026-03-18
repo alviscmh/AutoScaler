@@ -15,6 +15,8 @@ AutoScaler is a zero-touch, lightweight, background automation tool. It actively
 * **Hardware Debouncing:** Uses optimized timers to wait for the graphics card to finish its hardware "handshake" before executing, preventing CPU spam.
 * **Crash Armor:** Fully wrapped in `try...catch` blocks to survive chaotic OS display transitions without silently crashing in the background.
 
+![Uploading Gemini_Generated_Image_1oxkyd1oxkyd1oxk.png…]()
+
 ## 🛠️ Prerequisites
 1. **AutoHotkey v2:** You must have [AutoHotkey v2](https://www.autohotkey.com/) installed. (This script will not work on v1).
 2. **SetDpi.exe:** This script relies on a lightweight, open-source command-line tool called `SetDpi` created by GitHub user *imniko*. 
