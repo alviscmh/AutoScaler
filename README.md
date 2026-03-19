@@ -8,7 +8,9 @@ AutoScaler is a zero-touch, lightweight, background automation tool. It actively
 
 **Set it to launch on startup, and it becomes a seamless, invisible fix for one of Windows' most frustrating design flaws.**
 
-<img width="928" height="1152" alt="Gemini_Generated_Image_1oxkyd1oxkyd1oxk" src="https://github.com/user-attachments/assets/701d2141-cde8-415a-a571-f49c124707c9" />
+
+<img width="309" height="1664" alt="Gemini_Generated_Image_oyyd1moyyd1moyyd" src="https://github.com/user-attachments/assets/081becdb-d066-4f50-9c9f-6009ddfb1f22" />
+
 
 ## ✨ Features
 * **Zero-Touch Automation:** Automatically changes scaling when plugging/unplugging an external monitor.
