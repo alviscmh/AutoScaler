@@ -9,7 +9,7 @@ AutoScaler is a zero-touch, lightweight, background automation tool. It actively
 **Set it to launch on startup, and it becomes a seamless, invisible fix for one of Windows' most frustrating design flaws.**
 
 
-<img width="309" height="1664" alt="Gemini_Generated_Image_oyyd1moyyd1moyyd" src="https://github.com/user-attachments/assets/081becdb-d066-4f50-9c9f-6009ddfb1f22" />
+<img width="515" height="640" alt="Gemini_Generated_Image_oyyd1moyyd1moyyd" src="https://github.com/user-attachments/assets/081becdb-d066-4f50-9c9f-6009ddfb1f22" />
 
 
 ## ✨ Features
